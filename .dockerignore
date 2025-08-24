@@ -1,0 +1,33 @@
+# Git
+.git
+.gitignore
+README.md
+
+# Documentation
+*.md
+
+# Logs
+logs/
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.temp
+
+# Fichiers de développement
+.env
+.env.local
+.env.development
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Ancien fichier HTML
+TT_Site_Techniques_Topo.html 
